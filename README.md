@@ -1,1 +1,1 @@
-# Generalized-Linear-Model-of-tractor-insurances
+# Generalized-Linear-Model
